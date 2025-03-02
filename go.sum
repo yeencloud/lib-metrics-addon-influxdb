@@ -27,7 +27,7 @@ github.com/yeencloud/lib-metrics v0.1.0 h1:G8IfCmPKgq+giypOyjOZvXHU9FfbjCrYmPSlr
 github.com/yeencloud/lib-metrics v0.1.0/go.mod h1:Sdk61XkURdWWbvBM+y5M6pH8JUtdDCv9iYsJ71TISL4=
 github.com/yeencloud/lib-shared v0.1.0 h1:2i69Y4dOoRhKLDLUZ+IRTsy7utqrtwUbaLtXwDFJtns=
 github.com/yeencloud/lib-shared v0.1.0/go.mod h1:UFGbti2J/h179bvodfK/YpIiV94hiA4vlni1Cgc575k=
-golang.org/x/net v0.23.0 h1:7EYJ93RZ9vYSZAIb2x3lnuvqO5zneoD6IvWjuhfxjTs=
-golang.org/x/net v0.23.0/go.mod h1:JKghWKKOSdJwpW2GEx0Ja7fmaKnMsbu+MWVZTokSYmg=
+golang.org/x/net v0.33.0 h1:74SYHlV8BIgHIFC/LrYkOGIwL19eTYXQ5wc6TBuO36I=
+golang.org/x/net v0.33.0/go.mod h1:HXLR5J+9DxmrqMwG9qjGCxZ+zKXxBru04zlTvWlWuN4=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
