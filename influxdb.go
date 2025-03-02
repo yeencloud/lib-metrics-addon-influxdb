@@ -95,10 +95,6 @@ func (i *Influx) LogPoint(point metrics.MetricPoint, values metrics.MetricValues
 	}
 }
 
-func (i Influx) writeBlocking() api.WriteAPIBlocking {
-	return i.client.WriteAPIBlocking(i.config.Organization, i.config.Bucket)
-}
-
 func NewInflux(serviceName shared.ServiceName, config *InfluxConfig) (metrics.MetricsInterface, error) {
 	return &Influx{
 		config:      config,
